@@ -1,0 +1,7 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for post in posts %}
+    <p>{{ post.firstName }} {{ post.lastName }}</p>
+    
+    {% endfor %}
+{% endblock content %}
