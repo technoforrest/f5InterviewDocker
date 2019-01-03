@@ -1,5 +1,4 @@
 Flask
-Werkzeug<0.13.0,>=0.12.0
 SQLAlchemy
 flask_sqlalchemy
 flask_wtf
